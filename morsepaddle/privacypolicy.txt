@@ -1,0 +1,7 @@
+Morse Paddle Privacy Policy
+
+This application does not collect, store, or share any personal user data.
+
+The only information retained is technical configuration data related to the app’s functionality (such as words per minute, tone frequency, and iambic mode). These settings are stored locally on the user's device and are never transmitted externally.
+
+No data is used for advertising, analytics, or third-party services.
